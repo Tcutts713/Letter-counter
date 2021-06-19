@@ -1,2 +1,3 @@
 # Letter counter
- This program counts specific characters to from files and outputs the totals
+ This program counts specific characters to from a specific file from CLI and outputs the totals.
+ 
